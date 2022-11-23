@@ -1,5 +1,8 @@
-# Getting started with Python for Automated Testing in Browser
+ДЗ второе занятие
 
-This project is an example of a minimal setup in Python to run simplest «search in google» scenario in Web Browser. 
-
-Fore more details (in russian), find a tutorial at the project Wiki: [«Руководство по запуску первого автотеста на Python»](https://github.com/qa-guru/getting-started-python/wiki).
+Зарегистрируйте аккаунт на https://github.com
+Создайте новый проект для домашнего задания https://github.com/new
+Доработайте тест с первого занятия с Pytest
+Выставите размер браузера с помощью фикстуры Pytest
+Добавьте еще один "негативный" тест на поиск, чтобы результат поиска не выдавал результатов
+Запушьте код в свой репозиторий и дайте на него ссылку в качестве ответа на домашнее задание
